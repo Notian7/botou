@@ -36,7 +36,7 @@
 		"dotenv-cra": "^3.0.2",
 		"node-cron": "^3.0.0",
 		"reflect-metadata": "^0.1.13",
-		"shoukaku": "^2.0.4",
+		"shoukaku": "^3.4.0",
 		"spotify-web-api-node": "^5.0.2",
 		"string-progressbar": "^1.0.4"
 	},
